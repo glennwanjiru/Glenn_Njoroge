@@ -13,7 +13,7 @@
 
 I am Glenn Njoroge, a versatile professional with expertise in machine learning and a background in 3D modeling and animation. I excel in data preprocessing, feature engineering, and model selection. Using Blender, I create visually stunning 3D models. Currently pursuing a Bachelor's degree in Computer Science at Kabarak University, I am dedicated to continuous learning and driving innovation.
 
-</h2> <ul> <li>3D Modelling</li> <li>Game Development</li> <li>Reading Sci-Fi Comics</li> <li>Making Animations</li> <li>WoodWork</li> </ul> </div>
+
 
 ## Social Media Handles
 
