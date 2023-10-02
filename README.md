@@ -4,7 +4,7 @@
 </div>
 
 
-# John Glenn Njoroge Wanjiru
+# Glenn Njoroge
 
 
 
